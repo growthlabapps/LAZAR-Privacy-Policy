@@ -52,10 +52,18 @@ You can exercise these rights by contacting us at support@growthlabapps.com. We 
 If you are in Tanzania, we will still aim to respond promptly and handle your requests fairly.
 9. Children’s privacy
 LAZAR is not intended for use by minors. We do not knowingly collect personal data from anyone under the age of 18. If we become aware that we have collected such data, we will take steps to delete it promptly.
-10. Changes to this Privacy Policy
+10. California/US Privacy Rights (CCPA/CPRA)
+If you are a California resident, you have certain rights under the California Consumer Privacy Act (CCPA) and the California Privacy Rights Act (CPRA):
+Right to Know. You have the right to request that we disclose the categories and specific pieces of personal information we have collected about you, the categories of sources from which your personal information was collected, the business purpose for collecting your personal information, and the categories of third parties with whom we share your personal information.
+Right to Delete. You have the right to request the deletion of your personal information. Upon account deletion, all associated personal data is automatically and permanently deleted from our systems.
+Right to Opt-Out of Sale or Sharing. We do not sell or share your personal information with third parties for monetary or other valuable consideration. If this practice changes in the future, we will provide a clear opt-out mechanism and update this policy accordingly.
+Right to Non-Discrimination. We will not discriminate against you for exercising any of your CCPA/CPRA rights. You will not receive different pricing, quality of service, or any other penalty for exercising your rights.
+Right to Correct. You have the right to request correction of inaccurate personal information that we maintain about you.
+To exercise any of these rights, please contact us at [your contact email]. We will respond to verifiable requests within 45 days as required by law.
+11. Changes to this Privacy Policy
 We may update this Privacy Policy from time to time. If we make material changes, we will notify you via email or an in‑app notice, and the updated policy will apply once you continue using the App after the notice period.
 Your continued use of LAZAR after changes means you accept the updated Privacy Policy.
-11. Contact information
+12. Contact information
 If you have any questions, concerns, or requests about this Privacy Policy or your personal data, please contact us at:
 Email: support@growthlabapps.com 
 Company: Nikabo Wimbi Company LTD, trading as Growth Lab Apps Address: P.O. Box 1597, Zanzibar, Tanzania
