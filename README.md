@@ -59,7 +59,7 @@ Right to Delete. You have the right to request the deletion of your personal inf
 Right to Opt-Out of Sale or Sharing. We do not sell or share your personal information with third parties for monetary or other valuable consideration. If this practice changes in the future, we will provide a clear opt-out mechanism and update this policy accordingly.
 Right to Non-Discrimination. We will not discriminate against you for exercising any of your CCPA/CPRA rights. You will not receive different pricing, quality of service, or any other penalty for exercising your rights.
 Right to Correct. You have the right to request correction of inaccurate personal information that we maintain about you.
-To exercise any of these rights, please contact us at [your contact email]. We will respond to verifiable requests within 45 days as required by law.
+To exercise any of these rights, please contact us at support@growthlabapps.com. We will respond to verifiable requests within 45 days as required by law.
 11. Changes to this Privacy Policy
 We may update this Privacy Policy from time to time. If we make material changes, we will notify you via email or an in‑app notice, and the updated policy will apply once you continue using the App after the notice period.
 Your continued use of LAZAR after changes means you accept the updated Privacy Policy.
